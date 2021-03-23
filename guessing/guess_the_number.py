@@ -32,4 +32,7 @@ def computer_guess(x):
 
     print(f'The computer guessed the number {guess} correct.')
 
-computer_guess(10)
+computer_guess(1000)
+
+# IDEAS
+# guess the precept/book/prophet
