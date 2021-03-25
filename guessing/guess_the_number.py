@@ -36,3 +36,4 @@ computer_guess(1000)
 
 # IDEAS
 # guess the precept/book/prophet
+# looking for a precept? enter a category and decide if that is what you are looking for
